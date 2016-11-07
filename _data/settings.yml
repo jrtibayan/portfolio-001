@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: Jeric Tibayan
+description: Website Developer
+email: jeric_tibayan-webdev@yahoo.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -19,7 +19,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
+  description: 'Web developer from Lemery, Batangas, Philippines.'
   rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
   rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
 
@@ -39,21 +39,21 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Travis specializes in making things** for human people.
+  **Jeric specializes in making things** for human people.
   Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
   but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
   and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
 
 
 skills:
-- {name: Communication, value: '9'}
+- {name: Communication, value: '7'}
 - {name: Organization, value: '7'}
 - {name: Learning, value: '10'}
-- {name: Teaching, value: '6'}
-- {name: Planning, value: '7'}
-- {name: Visual Design, value: '5'}
+- {name: Teaching, value: '8'}
+- {name: Planning, value: '8'}
+- {name: Visual Design, value: '6'}
 - {name: UX Design, value: '8'}
-- {name: Programming, value: '6'}
+- {name: Programming, value: '9'}
 
 #-------------------------------
 # Work Section
